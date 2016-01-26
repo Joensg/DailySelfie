@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Daily Selfie</string>
+    <string name="camera_icon_string">Camera</string>
+    <string name="stop_alarm_text">Cancel Alarm</string>
+    <string name="set_alarm_text">Set Alarm</string>
+    <string name="deletallpics">Delete all selfies</string>
+    <string name="about_text_title">About</string>
+    <string name="OK">OK</string>
+    <string name="Cancel">Cancel</string>
+    <string name="dialog1_message">Do You really wish to delete all your Selfie Photos?</string>
+    <string name="dialog1_title">Delete All Selfie Photos</string>
+    <string name="about_text">An application that periodically reminds the user to take a selfie.
+        Over time the user will capture many selfies and thus will be able to see
+        him/her change.
+        The user can also set an alarm that notifies him/her every 24 hours after the alarm is set.
+        For testing purposes, this alarm has been configured for notification on every 2 minutes.
+        For setting the alarm, please select Set Alarm.
+    </string>
+    <string name="banner_alt">Image</string>
+      
+</resources>
